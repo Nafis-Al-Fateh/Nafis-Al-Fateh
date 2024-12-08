@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nafis.optimum@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rvBoiOtOeOzeTgmOqwlah3eITHtgREaq/view?usp=sharing](https://drive.google.com/file/d/1rvBoiOtOeOzeTgmOqwlah3eITHtgREaq/view?usp=sharing)
+- 📄 Know about my experiences [Nafis Resume](https://tinyurl.com/nafis-cv-2024)
 
 - ⚡ Fun fact **I once spent an entire weekend debugging code, only to find the issue was a missing semicolon. 😅**
 
