@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rvBoiOtOeOzeTgmOqwlah3eITHtgREaq/view?usp=sharing](https://drive.google.com/file/d/1rvBoiOtOeOzeTgmOqwlah3eITHtgREaq/view?usp=sharing)
 
-- ⚡ Fun fact **I think using data we can save the world**
+- ⚡ Fun fact **I once spent an entire weekend debugging code, only to find the issue was a missing semicolon. 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
