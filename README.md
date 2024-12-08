@@ -11,7 +11,7 @@
 
 - 🤝 I’m deeply engaged in **Econometric analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nafis-Al-Fateh](https://github.com/Nafis-Al-Fateh)
+- 👨‍💻 All of my projects are available at [Github profile](https://github.com/Nafis-Al-Fateh)
 
 - 📫 How to reach me **nafis.optimum@gmail.com**
 
