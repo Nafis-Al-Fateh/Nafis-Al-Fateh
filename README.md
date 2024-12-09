@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafis-al-fateh&label=Profile%20views&color=0e75b6&style=flat" alt="nafis-al-fateh" /> </p>
 
-- 🔭 I’m currently working on [Titanic survival prediction]([https://github.com/Nafis-Al-Fateh/Python-EDGE.git](https://github.com/Nafis-Al-Fateh/Python-EDGE/blob/main/Titanic_project.ipynb))
+- 🔭 I’m currently working on [Titanic survival prediction](https://github.com/Nafis-Al-Fateh/Python-EDGE/blob/main/Titanic_project.ipynb)
 
 - 🌱 I’m currently learning **Python & R**
 
